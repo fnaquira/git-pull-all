@@ -1,0 +1,12 @@
+[
+	{
+		"url": "https://github.com/fnaquira/nodeAsWindowsService",
+		"branch": "master",
+		"path": "nodeAsWindowsService"
+	},
+	{
+		"url": "https://git.conflux.pe/js/conflux-admin-react",
+		"branch": "master",
+		"path": "conflux-admin-react"
+	}
+]
